@@ -92,26 +92,26 @@
 /* extras */
 input {
   font-family: var(--font-family);
+  font-size: 15px;
   padding-left: 10px;
 }
 textarea {
   font-family: var(--font-family);
+  font-size: 16px;
   padding-left: 10px;
   padding-top: 10px;
 }
 .btn-back {
   font-family: var(--font-family);
   font-weight: 500;
-  font-size: 13px;
+  font-size: 18px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #070606;
   background-color: transparent;
   border: 0;
-  border-radius: 8px;
   width: 60px;
   height: 40px;
-  padding: 8px 8px;
   transition: color 300ms;
 }
 .btn-back:hover {
